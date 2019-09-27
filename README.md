@@ -6,7 +6,7 @@ This project is a replica of the news site Newsweek.com
 The challenge  was clone this website and make use of bootstrap
 ## Live Version:
 
-See here live version [here](asdasd)
+See here live version [here](https://digomes87.github.io/Using-Bootstrap/)
 
 ## Source Page:
 
