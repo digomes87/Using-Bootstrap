@@ -379,7 +379,7 @@ footer div ul li a:hover {
   margin-bottom: -3px;
 }
 
-.genericon-menu>span {
+.genericon-menu > span {
   margin-top: 4px;
   margin-bottom: 4px;
 }
@@ -389,7 +389,7 @@ footer div ul li a:hover {
   content: "";
 }
 
-.genericon-menu>span,
+.genericon-menu > span,
 .genericon-menu::before,
 .genericon-menu::after {
   display: none;
@@ -781,7 +781,7 @@ a.lk:hover {
   padding-top: 40px;
 }
 
-.prefooter>div {
+.prefooter > div {
   margin-bottom: 40px;
 }
 
@@ -819,15 +819,15 @@ a.lk:hover {
   height: 60px;
 }
 
-.sticky>div:nth-child(2) {
+.sticky > div:nth-child(2) {
   display: none !important;
 }
 
-.sticky>div .col-4 {
+.sticky > div .col-4 {
   width: 33.333%;
 }
 
-.sticky>div .col-8 {
+.sticky > div .col-8 {
   width: 66.666%;
   flex: none;
   max-width: unset;
@@ -845,7 +845,7 @@ a.lk:hover {
   display: inline-block;
 }
 
-.sticky .genericon-menu>span,
+.sticky .genericon-menu > span,
 .sticky .genericon-menu::before,
 .sticky .genericon-menu::after {
   display: block;
@@ -881,7 +881,7 @@ a.lk:hover {
     margin-left: -15px !important;
   }
 
-  .art-wrapper>img {
+  .art-wrapper > img {
     width: 100%;
   }
 
@@ -963,14 +963,12 @@ a.lk:hover {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-
   .item-i-t-m picture img {
     height: 50%;
   }
 }
 
 @media (max-width: 991px) {
-
   .header {
     height: 50px;
     padding-bottom: 5px;
@@ -988,7 +986,7 @@ a.lk:hover {
     display: inline-block;
   }
 
-  .genericon-menu>span,
+  .genericon-menu > span,
   .genericon-menu::before,
   .genericon-menu::after {
     display: block;
