@@ -96,7 +96,7 @@ a.i-t-m-main-button:hover {
 }
 
 .first-section-scroll::-webkit-scrollbar {
-  width: 0 !important;
+  width: 0;
 }
 
 .sponsored-article p {
@@ -713,7 +713,7 @@ footer div ul li:nth-last-child(1) {
 }
 
 .pf-second-box {
-  padding: 0 !important;
+  padding: 0;
   height: calc(100% - 27px);
   display: flex;
   -webkit-flex: 1;
@@ -820,7 +820,7 @@ a.lk:hover {
 }
 
 .sticky > div:nth-child(2) {
-  display: none !important;
+  display: none;
 }
 
 .sticky > div .col-4 {
@@ -834,7 +834,7 @@ a.lk:hover {
 }
 
 .sticky .d-lg-block {
-  display: none !important;
+  display: none;
 }
 
 .sticky .logo {
@@ -877,8 +877,8 @@ a.lk:hover {
   }
 
   .culture-and-travel article .art-wrapper {
-    margin-right: -15px !important;
-    margin-left: -15px !important;
+    margin-right: -15px;
+    margin-left: -15px;
   }
 
   .art-wrapper > img {
