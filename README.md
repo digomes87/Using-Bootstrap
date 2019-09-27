@@ -14,5 +14,4 @@ See here live version [MyVersion](https://digomes87.github.io/Using-Bootstrap/)
 [Source](https://www.newsweek.com/)
 
 ## Author
-Diego Go [Github](https://github.com/digomes87)
-Diego Go [Twitter](https://twitter.com/devDiegoGo)
+Diego Go [Github](https://github.com/digomes87) [Twitter](https://twitter.com/devDiegoGo)
