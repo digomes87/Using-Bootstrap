@@ -1,4 +1,4 @@
-files:
-  ignore:
-    - 'bower_components/*'
-    - 'node_modules/*'
+linters:
+  stylelint:
+    config: 'stylelint.config.js'
+
